@@ -10,7 +10,7 @@
 - Форма обратной связи с кастомизацией
 - Интеграция карты (Я. Карты)
 
-[Демо онлайн](https://kozachuk-dev.ru/projects/forest-travel/index.html)
+[Демо онлайн](https://s-kozachuk.github.io/forest-travel)
 
 **Тестировать локально**
 ```  
